@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+.key1{
+    background-color: aqua;
+    border: 5px solid red;
+    width: 400px;
+
+}
+.key2{
+    background-color: aqua;
+    border: 5px solid red;
+    width: 200px;
+    height: 100px;
+    margin: 50px 100px 150px 200px;
+}
+
+.car{
+    background-color: orange;
+    border: 2px solid red;
+    width: 700px;
+    height: 200px;
+    margin: 40px;
+   
+}
+.car1{
+    border: 2px solid green;
+    width: 200px;
+    height: 70px;
+    margin: 30px;
+    
+}
